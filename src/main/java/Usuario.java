@@ -8,12 +8,12 @@ El programa deber ser subido a un repositorio de GitHub, pegar el link del ejerc
  * @author Leonardo
  */
 public class Usuario {
-    public String nombre;
-    public String apellido;
-    public int edad;
-    public String hobbie;
-    public String editorCodigo;
-    public String sistemaOperativo;
+    private String nombre;
+    private String apellido;
+    private int edad;
+    private String hobbie;
+    private String editorCodigo;
+    private String sistemaOperativo;
     
     /* CONSTRUCTOR VACIO */
     public Usuario (){
